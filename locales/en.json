@@ -1,0 +1,76 @@
+{
+  "pages": {
+    "homepage": {
+      "title": "homepage",
+      "description": "this is homepage",
+      "section_1": {
+        "title": "section 1",
+        "description": "section 1 inner"
+      }
+    },
+    "about_page": {
+      "title": "about",
+      "description": "this is about",
+      "section_1": {
+        "title": "section 1",
+        "description": "section 1 inner"
+      }
+    },
+    "product_page": {
+      "title": "product",
+      "description": "this is product",
+      "section_1": {
+        "title": "section 1",
+        "description": "section 1 inner"
+      }
+    }
+  },
+  "header_links": {
+    "about": {
+      "concept": "concept",
+      "story": "story",
+      "charitable": "charitable",
+      "innovation": "innovation"
+    },
+    "product": {
+      "series_a": {
+        "name": "series makeup",
+        "products": ["sa_01", "sa_02"]
+      },
+      "series_b": {
+        "name": "series eye",
+        "products": ["sb_01", "sb_02"]
+      }
+    }
+  },
+  "products": {
+    "sa_01": {
+      "name": "product 1",
+      "price": "100",
+      "description": "product 1 description",
+      "series": "series_a",
+      "img_url": "https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076"
+    },
+    "sa_02": {
+      "name": "product 2",
+      "price": "200",
+      "description": "product 2 description",
+      "series": "series_a",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/2018/06/Sally-B_s-Skin-Yummies-B-Glossy-Lip-Gloss.jpg"
+    },
+    "sb_01": {
+      "name": "product 3",
+      "price": "300",
+      "description": "product 3 description",
+      "series": "series_b",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/csm/sunset-bronze-pennylaneorganics1.jpg"
+    },
+    "sb_02": {
+      "name": "product 4",
+      "price": "300",
+      "description": "product 4 description",
+      "series": "series_b",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/csm/sunset-bronze-pennylaneorganics1.jpg"
+    }
+  }
+}

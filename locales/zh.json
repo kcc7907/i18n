@@ -1,0 +1,76 @@
+{
+  "pages": {
+    "homepage": {
+      "title": "首頁",
+      "description": "這是首頁介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    },
+    "about_page": {
+      "title": "關於",
+      "description": "這是關於介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    },
+    "product_page": {
+      "title": "產品",
+      "description": "這是產品介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    }
+  },
+  "header_links": {
+    "about": {
+      "concept": "品牌理念",
+      "story": "創辦人故事",
+      "charitable": "粉紅公益",
+      "innovation": "科研創新"
+    },
+    "product": {
+      "series_a": {
+        "name": "底妝系列",
+        "products": ["sa_01", "sa_02"]
+      },
+      "series_b": {
+        "name": "眼妝系列",
+        "products": ["sb_01", "sb_02"]
+      }
+    }
+  },
+  "products": {
+    "sa_01": {
+      "name": "商品1",
+      "price": "100",
+      "description": "商品介紹",
+      "series": "series_a",
+      "img_url": "https://cdn.shopify.com/s/files/1/1338/0845/products/brain-freeze_a_800x1200.jpg?v=1502255076"
+    },
+    "sa_02": {
+      "name": "商品2",
+      "price": "200",
+      "description": "商品介紹",
+      "series": "series_a",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/2018/06/Sally-B_s-Skin-Yummies-B-Glossy-Lip-Gloss.jpg"
+    },
+    "sb_01": {
+      "name": "商品3",
+      "price": "300",
+      "description": "商品介紹",
+      "series": "series_b",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/csm/sunset-bronze-pennylaneorganics1.jpg"
+    },
+    "sb_02": {
+      "name": "商品3",
+      "price": "300",
+      "description": "商品介紹",
+      "series": "series_b",
+      "img_url": "https://www.purpicks.com/wp-content/uploads/csm/sunset-bronze-pennylaneorganics1.jpg"
+    }
+  }
+}
