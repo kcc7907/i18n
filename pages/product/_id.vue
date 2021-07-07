@@ -8,7 +8,7 @@
           </div>
           <p>{{currentPrd[item].name}}</p>
           <p>{{currentPrd[item].description}}</p>
-          <p>$ {{currentPrd[item].price}}</p>
+          <p>$ {{currentPrd[item].price}} </p>
         </li>
     </ul>
   </div>
